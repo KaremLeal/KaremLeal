@@ -3,13 +3,9 @@
 
 - 🔭 Estou trabalhando em uma pesquisa de TCC envolvendo a análise preditiva de dados utilizada no transporte coletivo [Sistema Inteligente para a Gestão do Transporte Público de Goiânia]([Futuro link do artigo])
 
-- 🌱 Atualmente estou estudando **Desenvolvimento de websites, gestão de banco de dado e softwares com GPS intregados**
-
-- 👨‍💻Todos meus projetos estão disponíveis em [[PORTIFOLIO]]([PORTIFOLIO])
+- 🌱 Atualmente estou estudando **Desenvolvimento em Angular, SpringBoot e Typescript**
 
 - 📫 E-mail para contato **leal.karem@gmail.com**
-
-- 📄 Conheça minhas aptidões [[CURRICULO]]([CURRICULO])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
